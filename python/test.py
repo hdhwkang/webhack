@@ -1,0 +1,1 @@
+print("se" in "efsgegssese")
